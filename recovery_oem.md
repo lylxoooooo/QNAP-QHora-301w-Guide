@@ -11,7 +11,7 @@
 /dev/mmcblk0p6 --- "rootfs_2" --- 512MB --- 系统3 rootfs 分区（空的，官方未刷入固件）
 /dev/mmcblk0p7 --- "0:WIFIFW" --- 4MB --- 无线的firmware分区
 /dev/mmcblk0p8 --- "reserved" --- 16MB --- 保留分区（没用的）
-/dev/mmcblk0p9 --- "rootfs_data" --- 2.1GB --- rootfs的数据分区，多个官方系统共用的分区，目前openwrt固件没有使用
+/dev/mmcblk0p9 --- "rootfs_data" --- 2.1GB --- rootfs的数据分区，多个官方系统共用的数据分区，目前openwrt固件没有使用该分区
 ```
 系统1和系统2的分区（kernel+rootfs）是互为备份的，理论上是一毛一样的。
 
