@@ -16,7 +16,8 @@
 系统1和系统2的分区（kernel+rootfs）是互为备份的，理论上是一毛一样的。
 
 前面提到的`sudo fw_setenv current_entry 1`即是切换到系统2，同理`sudo fw_setenv current_entry 0`即使切换到系统1
-恢复官方固件可以在前面刷机教程提到的把备份的/dev/mmcblk0p1和/dev/mmcblk0p4 dd命令刷回301w的这个分区即可，如果之前没备份但是系统二还在也可以刷回去
+
+恢复官方固件可以在前面刷机教程提到的把备份的/dev/mmcblk0p1和/dev/mmcblk0p4 dd命令刷回301w的这个分区即可，如果之前没备份但是系统2还在也可以刷回去
 例如`dd if=/dev/mmcblk0p2 of if=/dev/mmcblk0p1`这样就把系统2的kernel分区复制一份到系统1的kernel分区中了，同理rootfs`dd if=/dev/mmcblk0p5 of if=/dev/mmcblk0p4`
 
 **但是注意一点，你刷系统1分区一定要切换到系统2下操作**
