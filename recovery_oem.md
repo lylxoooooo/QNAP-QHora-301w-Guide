@@ -5,10 +5,10 @@
 ```bash
 /dev/mmcblk0p1 --- "0:HLOS" --- 16MB --- 系统1 kernel 分区
 /dev/mmcblk0p2 --- "0:HLOS_1" --- 16MB --- 系统2 kernel 分区
-/dev/mmcblk0p3 --- "0:HLOS_2" --- 16MB --- 系统3 kernel 分区（空的，官方未刷入固件）
+/dev/mmcblk0p3 --- "0:HLOS_2" --- 16MB --- 系统3 kernel 分区（空的，官方未刷入固件，也无法引导到该分区，忽视）
 /dev/mmcblk0p4 --- "rootfs" --- 512MB --- 系统1 rootfs 分区
 /dev/mmcblk0p5 --- "rootfs_1" --- 512MB --- 系统2 rootfs 分区
-/dev/mmcblk0p6 --- "rootfs_2" --- 512MB --- 系统3 rootfs 分区（空的，官方未刷入固件）
+/dev/mmcblk0p6 --- "rootfs_2" --- 512MB --- 系统3 rootfs 分区（空的，官方未刷入固件，也无法引导到该分区，忽视）
 /dev/mmcblk0p7 --- "0:WIFIFW" --- 4MB --- 无线的firmware分区
 /dev/mmcblk0p8 --- "reserved" --- 16MB --- 保留分区（没用的）
 /dev/mmcblk0p9 --- "rootfs_data" --- 2.1GB --- rootfs的数据分区，多个官方系统共用的数据分区，目前openwrt固件没有使用该分区
