@@ -2,7 +2,7 @@
 
 #### 特别感谢 [@coolsnowwolf](https://github.com/coolsnowwolf) [@asushugo](https://github.com/asushugo) 等一众牛B的开发者适配301w路由器！
 
-#### 本教程仅限于lean的qsdk闭源固件和[lede开源固件](https://github.com/coolsnowwolf/lede)，其他衍生固件恕没有能力解答
+#### 本教程仅限于lean的qsdk闭源固件和[lede开源固件](https://github.com/coolsnowwolf/lede)，其他衍生固件刷机祝你好运！
 
 #### [QNAP QHora-301W 产品介绍](./301w_Specs.md) 
 
