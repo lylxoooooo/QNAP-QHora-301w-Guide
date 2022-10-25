@@ -5,7 +5,7 @@
 #### 本教程仅限在lean的qsdk闭源固件和[lede开源固件](https://github.com/coolsnowwolf/lede)测试通过，衍生固件刷机请自行测试。
 
 #### [QNAP QHora-301W 产品介绍](./301w_Specs.md)  
-#### [QNAP QHora-301W OpenWRT官网首页介绍](https://openwrt.org/inbox/toh/qnap/301w) 
+#### [QNAP QHora-301W OpenWRT官网介绍](https://openwrt.org/inbox/toh/qnap/301w) 
 
 ### 一. 开启SSH服务
 
