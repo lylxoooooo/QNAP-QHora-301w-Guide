@@ -7,7 +7,7 @@
 - 内存: 1024MB of DDR3
 - 闪存: 
   - 8MB SPI NOR FLASH (包含art mibib cdt uboot等启动引导分区)
-  - 4GB eMMC FLASH (包含固件操作系统分区kernel和rootfs等)
+  - 4GB eMMC NAND FLASH (包含固件操作系统分区kernel和rootfs等)
 - 有线网络: 
   - 4个1Gbps RJ45 接口（PHY芯片：QCA8075）
   - 2个(10Mbps/100Mbps/1000Mbps/2.5Gbps/5Gbps/10Gbps) RJ45接口 （PHY芯片：Aquantia AQR113C）
