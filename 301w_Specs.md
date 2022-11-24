@@ -3,7 +3,7 @@
 ## [官方介绍](https://www.qnap.com/zh-cn/product/qhora-301w)
 
 ## 硬件参数
-- CPU: 高通 Networking Pro 1200 平台 [IPQ8072A](pic/IPQ8072A.jpg) 四核 Cortex-A53 2.2GHz
+- SOC: 高通 Networking Pro 1200 平台 [IPQ8072A](pic/IPQ8072A.jpg) 四核 Cortex-A53 2.2GHz
 - 内存: 1024MB of DDR3
 - 闪存: 
   - 8MB SPI NOR FLASH (包含art mibib cdt uboot等启动引导分区)
