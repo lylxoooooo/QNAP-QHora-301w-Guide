@@ -5,7 +5,7 @@
 ## 硬件参数
 - SOC: 高通 Networking Pro 1200 平台 [IPQ8072A](pic/IPQ8072A.jpg) 四核 Cortex-A53 2.2GHz
 - 内存: 1024MB of DDR3
-- 闪存: 
+- 存储: 
   - 8MB SPI NOR FLASH (包含art mibib cdt uboot等启动引导分区)
   - 4GB eMMC NAND FLASH (包含固件操作系统分区kernel和rootfs等)
 - 有线网络: 
