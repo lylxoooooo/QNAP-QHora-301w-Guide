@@ -12,8 +12,8 @@
   - 4个 RJ45接口 (10Mbps/100Mbps/1Gbps自适应)（PHY芯片：QCA8075）
   - 2个 RJ45接口 (10Mbps/100Mbps/1Gbps/2.5Gbps/5Gbps/10Gbps自适应)（PHY芯片：Aquantia AQR113C）
 - 无线网络:
-  - 2.4GHz: 高通 QCN5024 4x4 1182Mbps最大速率支持4x4 (40MHz) (FEM:SKY85347-11)
-  - 5GHz: 高通 QCN5054 4x4 2475Mbps最大速率支持4x4 (80MHz)、2x2 (160MHz) (FEM:SKY85755-11)
+  - 2.4GHz: 4x4 1182Mbps最大速率支持4x4(40MHz)模式 (RF:Qualcomm QCN5024 / FEM:SKY85347-11)
+  - 5GHz: 4x4 2475Mbps最大速率支持4x4(80MHz)和2x2(160MHz)模式 (RF:Qualcomm QCN5054 / FEM:SKY85755-11)
 - USB接口:
   - 2个 USB3.0 接口
 - LED灯:
