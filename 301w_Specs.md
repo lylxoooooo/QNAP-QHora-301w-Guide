@@ -9,8 +9,8 @@
   - 8MB SPI NOR FLASH (包含art mibib cdt uboot等启动引导分区)
   - 4GB eMMC NAND FLASH (包含固件操作系统分区kernel和rootfs等)
 - 有线网络: 
-  - 4个 RJ45接口 (10Mbps/100Mbps/1Gbps)（PHY芯片：QCA8075）
-  - 2个 RJ45接口 (10Mbps/100Mbps/1Gbps/2.5Gbps/5Gbps/10Gbps)（PHY芯片：Aquantia AQR113C）
+  - 4个 RJ45接口 (10Mbps/100Mbps/1Gbps自适应)（PHY芯片：QCA8075）
+  - 2个 RJ45接口 (10Mbps/100Mbps/1Gbps/2.5Gbps/5Gbps/10Gbps自适应)（PHY芯片：Aquantia AQR113C）
 - 无线网络:
   - 2.4GHz: 高通 QCN5024 4x4 802.11b/g/n/ax 1174Mbps速率 (FEM:SKY85347-11)
   - 5GHz: 高通 QCN5054 4x4 802.11a/b/g/n/ac/ax 2402Mbps速率，支持2x2 160MHZ频宽 (FEM:SKY85755-11)
