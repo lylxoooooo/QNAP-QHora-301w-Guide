@@ -14,13 +14,18 @@
 - 无线网络:
   - 2.4GHz: 4x4 1182Mbps最大速率支持4x4(40MHz)模式 (RF:Qualcomm QCN5024 / FEM:SKY85347-11)
   - 5GHz: 4x4 2475Mbps最大速率支持4x4(80MHz)和2x2(160MHz)模式 (RF:Qualcomm QCN5054 / FEM:SKY85755-11)
+- 无线天线:
+  - 2.4G: 4根内置 4.5dBi增益 PCB天线
+  - 5G: 4根内置 5.2dBi增益 PCB天线
 - USB接口:
-  - 2个 USB3.0 接口
+  - 2个 USB3.2 Gen1 TYPE-A接口
 - LED灯:
   - 7个 GPIO 可编程黄/绿色LED指示灯
   - 2个 GPIO 可编程单色LED指示灯
 - 按键: 1个 reset键、1个 WPS按键、1个电源开关键
-- 电源: 12V DC接口
+- 电源: 12V DC接口 最大功耗24W
+- 尺寸: 250 x 180 x 48 mm
+- 重量: 1.9 Kg
 
 ![TTL接线图](pic/301w.jpg)
 
