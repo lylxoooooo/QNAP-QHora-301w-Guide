@@ -14,11 +14,11 @@
 - 无线网络:
   - 2.4GHz: 高通 QCN5024 4x4 802.11b/g/n/ax 1174 Mbps速率 (FEM:SKY85347-11)
   - 5GHz: 高通 QCN5054 4x4 802.11a/b/g/n/ac/ax 2402速率，支持160MHZ频宽 (FEM:SKY85755-11)
+- USB接口
+  - 2个 USB3.0接口
 - LED灯:
   - 7个 GPIO 可编程黄/绿色LED指示灯
   - 2个 GPIO 可编程单色LED指示灯
-- USB接口
-  - 2个 USB3.0接口
 - 按键: 1个 reset键、1个 WPS按键、1个电源开关键
 - 电源: 12V DC接口
 
