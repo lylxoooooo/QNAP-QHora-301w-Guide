@@ -27,7 +27,8 @@
 - 尺寸: 250 x 180 x 48 mm
 - 重量: 1.9 Kg
 
-![TTL接线图](pic/301w.jpg)
+![接口图](pic/301w.jpg)
+![acwifi拆解图](pic/acwifi_301w.jpg)
 
 ## 闪存分区表
 
