@@ -78,3 +78,4 @@ sudo reboot
 4. 修改bootcmd环境变量：`fw_setenv bootcmd "aq_load_fw 0; aq_load_fw 8; bootipq"`
 5. `fw_printenv` 看下是否有这条记录 bootcmd=aq_load_fw 0; aq_load_fw 8; bootipq ，如果有就没问题。
 6. 重启
+
